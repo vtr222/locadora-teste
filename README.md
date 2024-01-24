@@ -1,75 +1,21 @@
-# Nuxt 3 Minimal Starter
+# Front End Challenge Comerc
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Live Version
+
+Eu fiz o deploy do site no Netlify pra facilitar a visualização:
+*https://endearing-malasada-68e97c.netlify.app/login*
+No banco de dados mockup já vem cadastrado a seguinte conta de usuário para login:
+
+Login: Admin
+Senha: admin123
 
 ## Setup
 
-Make sure to install the dependencies:
+Para rodar em ambiente de desenvolvimento realize os seguintes passos:
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
 
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+o server de desenvolvimento iniciará em http://localhost:3000
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
